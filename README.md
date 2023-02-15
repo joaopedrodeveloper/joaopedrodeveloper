@@ -1,7 +1,7 @@
 ## Olá! Me chamo João Pedro
 
 - ✔ 
-- 👨‍🎓 Atualmente, estudo HTML, CSS e JavaScript
+- 👨‍🎓 
 - 📩 Contate-me no email: jpedro.dev@proton.me
 - 😄 Pronouns: Ele/Dele
 
