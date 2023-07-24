@@ -1,9 +1,9 @@
 ## Olá! Me chamo João Pedro
 
 - ✔ 
-- 👨‍🎓 
+- 👨‍🎓 Graduando Engenharia de Computação
 - 📩 Contate-me no email: jpedro.dev@proton.me
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/joaopedrodeveloper">
